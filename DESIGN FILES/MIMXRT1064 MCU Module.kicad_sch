@@ -259,9 +259,6 @@
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/339af60d-4e7f-4434-9945-4f458e250149"
       (reference "#PWR043") (unit 1) (value "GND") (footprint "")
     )
-    (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/cacb728d-b2b4-45dd-bcdb-289c5b0f5dee"
-      (reference "#PWR044") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/cd714a48-2715-4490-9012-8eec2ca86484"
       (reference "#PWR045") (unit 1) (value "+3V3") (footprint "")
     )
@@ -372,6 +369,9 @@
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/dd430ab8-379d-46c4-b759-74267396ace2"
       (reference "#PWR081") (unit 1) (value "+1V8") (footprint "")
+    )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/6f9d1adf-7f56-4ace-aabe-9406605f74b0"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/c3688eb4-6543-4f72-9b41-32ecff2252b7"
       (reference "C1") (unit 1) (value "220nF") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
