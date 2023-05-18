@@ -33,7 +33,7 @@
   (pad "1" smd rect (at -1.05 -0.95 90) (size 0.6 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 83d4089a-cf4b-44db-aa89-6b042f697a82))
   (pad "2" smd rect (at -1.05 0.95 90) (size 0.6 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7c1dcab7-7bf6-4643-95d1-2f00f1d74ec7))
   (pad "3" smd rect (at 1.05 0 90) (size 0.6 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1f6d4fb2-dfde-4a2b-9675-f9218cb04d82))
-  (model "${KIPRJMOD}/Libraries/3dModels/IRLML6401.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/IRLML6401.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
