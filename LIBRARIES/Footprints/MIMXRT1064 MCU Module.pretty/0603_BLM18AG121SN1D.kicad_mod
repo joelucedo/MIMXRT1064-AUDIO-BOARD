@@ -27,12 +27,7 @@
   (fp_line (start 0.8 0.4) (end 0.8 -0.4) (layer "F.Fab") (width 0.12) (tstamp bf18cec4-47a6-4253-8604-d2726f12a2ec))
   (pad "1" smd rect (at -0.6604 0) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e550a17d-11b6-45a4-ac73-b47e4565f3ec))
   (pad "2" smd rect (at 0.6604 0) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3cf216dc-c2f5-4c65-8198-d6833c956121))
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/Soundsom3d/BLM18AG121SN1D.stp"
-    (offset (xyz 0 0.4 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 180))
-  )
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/BLM18AG121SN1D.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/BLM18AG121SN1D.stp"
     (offset (xyz 0 -0.4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

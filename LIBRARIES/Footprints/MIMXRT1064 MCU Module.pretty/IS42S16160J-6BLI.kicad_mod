@@ -85,7 +85,7 @@
   (pad "J7" smd circle (at 1.6 3.2 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 05cfdbe1-8792-462e-ad10-3e8319a0ef99))
   (pad "J8" smd circle (at 2.4 3.2 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 214bbbd3-59fe-4125-bb6e-5b3897a7ae95))
   (pad "J9" smd circle (at 3.2 3.2 90) (size 0.41 0.41) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ff49f3ef-8e54-4589-9618-1341e1705ea1))
-  (model "${KIPRJMOD}/Libraries/3dModels/IS42S16160J-6BLI.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/IS42S16160J-6BLI.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -33,7 +33,7 @@
   (pad "2" smd rect (at 0.96 1.02) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 00577708-bc96-4d20-b9fc-637010300051))
   (pad "3" smd rect (at 0.96 -1.02) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9141b774-958e-4b61-a949-52b3338861d5))
   (pad "4" smd rect (at -0.96 -1.02) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ec4b083-44de-4d69-95d8-82450304c575))
-  (model "${KIPRJMOD}/Libraries/3dModels/UM805RE.STEP"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/UM805RE.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -38,7 +38,7 @@
   (pad "6" smd rect (at 3.532 0.635 90) (size 0.65 1.785) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 68f79be1-9222-4c26-b90f-55c9c3c4aab3))
   (pad "7" smd rect (at 3.532 -0.635 90) (size 0.65 1.785) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 705706a3-9075-4269-bcca-04e12f2cc27b))
   (pad "8" smd rect (at 3.532 -1.905 90) (size 0.65 1.785) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 94d8289d-a546-481b-bd82-0fe989271dab))
-  (model "${KIPRJMOD}/Libraries/3dModels/IS25WP064A-JBLE.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/IS25WP064A-JBLE.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

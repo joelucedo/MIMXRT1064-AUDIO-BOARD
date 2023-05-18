@@ -49,7 +49,7 @@
   (pad "11" smd rect (at 7.75 3) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 047d0109-b551-497c-a4e6-7f0b6fed46ad))
   (pad "12" smd rect (at 6.85 -6.6 90) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f85da76-eb1c-4502-b2a0-6df0b3d2c3bb))
   (pad "13" smd rect (at -7.75 -6.5) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d828c60-9087-4927-bb9a-6692f3731d5a))
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/TF-15x15.wrl.wrl"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/TF-15x15.wrl.wrl"
     (offset (xyz 0 8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

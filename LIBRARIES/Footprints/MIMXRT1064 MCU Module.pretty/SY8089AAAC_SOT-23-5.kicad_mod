@@ -154,7 +154,7 @@
   (pad "3" smd rect (at -1.349751 0.950001) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0f869453-a67d-4d90-8f12-76fbd0303bc8))
   (pad "4" smd rect (at 1.349751 0.950001) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d56b4b4-52e1-495a-8581-25dc28fc5b29))
   (pad "5" smd rect (at 1.349751 -0.950001) (size 0.997699 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 529c7a66-3a03-4d24-a23c-88a9e6ffcf23))
-  (model "${KIPRJMOD}/Libraries/3dModels/SY8089AAAC.STEP"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/SY8089AAAC.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

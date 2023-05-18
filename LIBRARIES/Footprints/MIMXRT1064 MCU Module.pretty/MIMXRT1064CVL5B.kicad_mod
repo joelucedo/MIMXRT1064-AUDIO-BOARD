@@ -227,7 +227,7 @@
   (pad "P12" smd circle (at 2.925 4.225 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ffbf6ed4-2353-406b-bf10-3a6a5ea2210a))
   (pad "P13" smd circle (at 3.575 4.225 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 944b85e9-7665-4d5b-a4e9-4409ad4d185f))
   (pad "P14" smd circle (at 4.225 4.225 90) (size 0.29 0.29) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fece5d54-1137-4b80-9039-25ee76e4893c))
-  (model "${KIPRJMOD}/Libraries/3dModels/MIMXRT1064CVL5B.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/MIMXRT1064CVL5B.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

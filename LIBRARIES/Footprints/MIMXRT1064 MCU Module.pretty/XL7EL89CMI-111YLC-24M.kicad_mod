@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 0.6858 0.5334 90) (size 0.775 0.875) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18139a46-35ea-4d9e-adf7-a412ea59bc26))
   (pad "3" smd rect (at 0.6858 -0.5334 90) (size 0.775 0.875) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b63b01ff-e09a-4ff6-b908-3197843bb09c))
   (pad "4" smd rect (at -0.6858 -0.5334 90) (size 0.775 0.875) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 36075ed3-fb7b-4973-86bd-32171d9d3659))
-  (model "${KIPRJMOD}/Libraries/3dModels/XL7EL89CMI-111YLC-24M.stp"
+  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/XL7EL89CMI-111YLC-24M.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
