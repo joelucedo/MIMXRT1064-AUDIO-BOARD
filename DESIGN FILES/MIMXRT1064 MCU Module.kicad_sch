@@ -51,7 +51,7 @@
     (stroke (width 1) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 574a2f6c-1db5-4366-bd73-1f4d156f4a53)
-    (property "Sheet name" "memory ICs" (id 0) (at 77.47 156.21 0)
+    (property "Sheet name" "memory" (id 0) (at 77.47 156.21 0)
       (effects (font (size 3 3) bold italic) (justify left bottom))
     )
     (property "Sheet file" "memory.kicad_sch" (id 1) (at 63.5 160.6046 0)
