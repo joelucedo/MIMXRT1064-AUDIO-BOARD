@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 629017e8-ff59-4eab-99dd-4273361d7e4c)
+
+  (paper "A4")
+
+  (title_block
+    (title "Block diagram")
+    (date "2023-05-12")
+    (rev "0")
+  )
+
+  (lib_symbols
+  )
+
+)

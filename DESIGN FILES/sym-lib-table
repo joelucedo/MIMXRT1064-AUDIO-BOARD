@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "soundsom")(type "KiCad")(uri "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/Symbols/soundsom.kicad_sym")(options "")(descr ""))
+  (lib (name "MIMXRT1064 MCU Module")(type "KiCad")(uri "C:/Users/32470/Desktop/CHALLENGES/MIMXRT1064 MCU Module/LIBRARIES/Symbols/MIMXRT1064 MCU Module.kicad_sym")(options "")(descr ""))
+)
