@@ -15,3 +15,4 @@
 * ***Maximum clock frequency*** : 133MHz
 #### SD Memory Card Socket
 * ***Capacity*** : Up to 2TB SDHX card
+* ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104)
