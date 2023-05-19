@@ -1,7 +1,7 @@
 # MIMXRT1064 MCU Module
 ## STATUS
 Work in progress.  
-The goal is to have a powerfull small audio system on module supported by the FAUST audio DSP programming language. </br>
+The goal is to have a powerfull small audio system on module supported by the FAUST audio DSP programming language. </br></br>
 Something like small form (4x4) low profile module with castellated pads to be solder on carrier board.
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
