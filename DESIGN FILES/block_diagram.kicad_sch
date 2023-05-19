@@ -6,11 +6,17 @@
 
   (title_block
     (title "Block diagram")
-    (date "2023-05-12")
+    (date "2023-05-19")
     (rev "0")
+    (company "Soundsom")
   )
 
   (lib_symbols
   )
 
+
+  (text "1 : BLOCK DIAGRAM" (at 204.47 27.94 0)
+    (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
+    (uuid 4c6d0c04-1cbd-45ec-80db-693d928e9045)
+  )
 )

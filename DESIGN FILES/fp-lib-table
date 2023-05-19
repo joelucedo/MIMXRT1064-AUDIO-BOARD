@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "MIMXRT1064 MCU Module")(type "KiCad")(uri "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/Footprints/MIMXRT1064 MCU Module.pretty")(options "")(descr ""))
+  (lib (name "soundsom")(type "KiCad")(uri "C:/Users/32470/Desktop/SOUNDSOdM/SOUNDSOM LIBRARIES/Footprints/soundsom.pretty")(options "")(descr ""))
 )
