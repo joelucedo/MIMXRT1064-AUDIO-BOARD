@@ -5,6 +5,7 @@
 * ***Clock frequency*** : 528 MHz  
 * ***On chip Flash*** : 4MB  
 * ***On chip RAM*** : 1MB
+* ***USB*** : Two USB 2.0 HS OTG controllers with integrated PHY interfaces
 #### SDRAM : IS42S16160J-6BLI
 * ***Memory Size*** : 256Mb
 * ***Data Bus Width*** : 16 Bit
