@@ -9,4 +9,7 @@
 * ***Memory Size*** : 256Mb
 * ***Data Bus Width*** : 16 Bit
 * ***Maximum clock frequency*** : 166MHz
-* 
+#### QSPI FLash : IS25WP064A-JBLE
+* ***Memory Size*** : 64Mbit
+* ***Data Bus Width*** : 8 Bit
+* ***Maximum clock frequency*** : 133MHz
