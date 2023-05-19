@@ -13,3 +13,5 @@
 * ***Memory Size*** : 64Mbit
 * ***Data Bus Width*** : 8 Bit
 * ***Maximum clock frequency*** : 133MHz
+#### SD Memory Card Socket
+* Up to 2TB SDHX card
