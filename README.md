@@ -17,10 +17,10 @@
 * ***Capacity*** : Up to 2TB SDHX card
 * ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104)
 ### Audio codec
-* ***On-chip Headphone Driver
 * ***Sampling rate*** : Up to 48MHz
 * ***Bit Depth*** : 24 bits (ADC & DAC)
 * ***Nbr of Channels*** : 1 channel (LADC - RADC - LDAC - RDAC)
-* ***1W output power 8ohm BTL speaker***
+* ***On-chip Headphone Driver***
+* ***1W output power for 8ohm BTL speaker***
 * ***Mic preamps (stereo differential or mono)***
 * ***Multiple Line inputs & outputs*** 
