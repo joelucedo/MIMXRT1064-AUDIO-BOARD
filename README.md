@@ -3,7 +3,7 @@
 Work in progress.  
 </br>
 The goal is to have a powerfull small audio system on module supported by the FAUST audio DSP programming language.  
-Something like small form factor(4x4) low profile module with castellated pads to be solder on carrier board.
+Something like small form factor (4x4) low profile module with castellated pads to be solder on carrier board.
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
 * ***Cores*** : 1 x ARM Cortex M7 (32KB L1 Cache - FPU)
