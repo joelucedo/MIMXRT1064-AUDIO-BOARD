@@ -1,4 +1,6 @@
 # MIMXRT1064 MCU Module
+## STATUS
+Work in progress.
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
 * ***Cores*** : 1 x ARM Cortex M7 (32KB L1 Cache - FPU)
