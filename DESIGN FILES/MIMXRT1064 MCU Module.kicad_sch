@@ -280,6 +280,9 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/3034c188-1886-4bf3-8205-f233ecfdea15"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/41c2ab0b-043a-495d-80d7-f2b577a895f9"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/44cd126f-451d-4c73-bf74-005f1ed7408e"
       (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
     )
@@ -553,6 +556,9 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/324e3c78-7748-4fc4-a670-c81ee1b8858a"
       (reference "D4") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/486def14-917e-4470-91d9-1676d3ab6440"
+      (reference "D?") (unit 1) (value "Blue LED") (footprint "")
+    )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/7f437b98-928e-4aee-ac53-0ab60c6bbcf4"
       (reference "FB1") (unit 1) (value "BLM18AG121SN1D") (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D")
     )
@@ -594,6 +600,9 @@
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/c0532533-85e5-462b-a049-8c36121b7575"
       (reference "R11") (unit 1) (value "1.5k") (footprint "MIMXRT1064 MCU Module:CQ02WGF1501TCE")
+    )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/133ba1ce-d92f-47d6-b479-12fac584964d"
+      (reference "R?") (unit 1) (value "2.2k") (footprint "")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/2f7437c3-c7cf-49ac-ad87-532c88792054"
       (reference "R?") (unit 1) (value "100k") (footprint "MIMXRT1064 MCU Module:0402WGF1003TCE")
