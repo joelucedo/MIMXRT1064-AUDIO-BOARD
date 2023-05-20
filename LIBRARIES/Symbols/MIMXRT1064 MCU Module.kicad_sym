@@ -3062,7 +3062,7 @@
     )
   )
   (symbol "TLV62569DBV" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at -5.08 6.35 0)
+    (property "Reference" "VR" (id 0) (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TLV62569DBV" (id 1) (at 0 6.35 0)

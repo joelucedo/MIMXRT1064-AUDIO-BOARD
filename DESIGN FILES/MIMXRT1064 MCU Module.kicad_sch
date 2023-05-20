@@ -732,17 +732,17 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/b97bd571-4745-4edb-9ab7-46b7a7ff5b7d"
       (reference "U6") (unit 1) (value "UM803RS") (footprint "MIMXRT1064 MCU Module:UM803RS")
     )
-    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/40ab91c2-6d25-4fb0-8f5e-b9cb9c0f1774"
-      (reference "U?") (unit 1) (value "TLV62569DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
-    )
-    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/514f9f35-cf75-4287-9224-3b271adda236"
-      (reference "U?") (unit 1) (value "TLV62569DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
-    )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/5c6c425e-8b8a-437f-ba4e-6ed4b39ec3a3"
       (reference "U?") (unit 3) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
     )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/27c71916-98b0-4465-9ab9-3a6c6eda1428"
+      (reference "VR?") (unit 1) (value "TLV62569DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/5074187f-0a52-4f64-b1f8-61e62aa4e860"
       (reference "VR?") (unit 1) (value "TPS79333DBVR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/e5192604-c947-4e22-983a-e0fd419a23e0"
+      (reference "VR?") (unit 1) (value "TLV62569DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/525ba500-b45e-4e6d-8ff6-2d82f98f837c"
       (reference "Y1") (unit 1) (value "XL7EL89CMI-111YLC-24M") (footprint "MIMXRT1064 MCU Module:XL7EL89CMI-111YLC-24M")
