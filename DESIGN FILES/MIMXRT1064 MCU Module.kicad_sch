@@ -658,11 +658,11 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/e5192604-c947-4e22-983a-e0fd419a23e0"
       (reference "VR?") (unit 1) (value "TLV62569DBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
-    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/525ba500-b45e-4e6d-8ff6-2d82f98f837c"
-      (reference "Y1") (unit 1) (value "XL7EL89CMI-111YLC-24M") (footprint "MIMXRT1064 MCU Module:XL7EL89CMI-111YLC-24M")
-    )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/46a27795-53fb-4de0-bed0-778309b91683"
       (reference "Y2") (unit 1) (value "X201232768KJD2SI") (footprint "MIMXRT1064 MCU Module:X201232768KJD2SI")
+    )
+    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/27318a81-6f57-4f0d-aa59-6b7e20317088"
+      (reference "Y?") (unit 1) (value "7V24000026") (footprint "")
     )
   )
 )
