@@ -2,7 +2,7 @@
 
   (uuid 629017e8-ff59-4eab-99dd-4273361d7e4c)
 
-  (paper "A4")
+  (paper "A3")
 
   (title_block
     (title "Block diagram")
@@ -15,7 +15,7 @@
   )
 
 
-  (text "1 : BLOCK DIAGRAM" (at 204.47 27.94 0)
+  (text "2 : BLOCK DIAGRAM" (at 25.4 26.67 0)
     (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
     (uuid 4c6d0c04-1cbd-45ec-80db-693d928e9045)
   )

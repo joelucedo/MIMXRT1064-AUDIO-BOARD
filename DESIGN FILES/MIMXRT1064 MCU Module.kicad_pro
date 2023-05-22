@@ -310,7 +310,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../../Desktop/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -323,23 +323,23 @@
     ],
     [
       "ecabb000-042a-4fd3-91ce-6da3c3b1ff3b",
-      "block diagram"
+      "BLOCK DIAGRAM"
     ],
     [
       "a020ac19-7a08-4ab7-9f6b-84c6ea2c6252",
-      "mcu power & crystals"
+      "SUPPLIES & PMIC"
     ],
     [
       "829b3f95-6b61-404e-b99c-998f91300f3b",
-      "mcu gpio & memory signals"
+      "MCU POWER & CRYSTALS"
     ],
     [
       "574a2f6c-1db5-4366-bd73-1f4d156f4a53",
-      "memory & USB"
+      "MCU GPIO"
     ],
     [
       "a2f401b1-e3ca-4fba-8477-437af9831272",
-      "supplies & pmic"
+      "MEMORY"
     ]
   ],
   "text_variables": {}
