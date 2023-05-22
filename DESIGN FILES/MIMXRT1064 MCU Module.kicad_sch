@@ -383,115 +383,115 @@
       (reference "#PWR0619") (unit 1) (value "GND") (footprint "")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/15733621-7f9f-468f-ba0e-381c826a2fc8"
-      (reference "C301") (unit 1) (value "1u") (footprint "")
+      (reference "C301") (unit 1) (value "1u") (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/3c5837a8-e4ef-4997-9be2-7a0f736d7f49"
-      (reference "C302") (unit 1) (value "1u") (footprint "")
+      (reference "C302") (unit 1) (value "1u") (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/ff338ffd-a08a-4107-92c5-51c0b07eda82"
-      (reference "C303") (unit 1) (value "22u") (footprint "")
+      (reference "C303") (unit 1) (value "22u") (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/aa8afb6a-0886-4b2c-97f1-b9edf37f0833"
-      (reference "C304") (unit 1) (value "100n") (footprint "")
+      (reference "C304") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/708c5c5a-1709-47e8-9deb-7c60d7ab468f"
-      (reference "C305") (unit 1) (value "100n") (footprint "")
+      (reference "C305") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/d542069c-cc8f-4f2b-b02f-e972253d16d0"
-      (reference "C306") (unit 1) (value "10u") (footprint "")
+      (reference "C306") (unit 1) (value "10u") (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/bf5c1f41-d67e-4508-8650-7ce1750b42cb"
-      (reference "C307") (unit 1) (value "100n") (footprint "")
+      (reference "C307") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/45fd6cb7-e482-43c0-9b5d-6647b261e0a7"
-      (reference "C308") (unit 1) (value "22u") (footprint "")
+      (reference "C308") (unit 1) (value "22u") (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/4a4f2d68-a4d8-4260-82ae-40d2a745897c"
-      (reference "C309") (unit 1) (value "10u") (footprint "")
+      (reference "C309") (unit 1) (value "10u") (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/40f3f712-74b7-49e9-92d3-67261dec2e41"
-      (reference "C310") (unit 1) (value "1u") (footprint "")
+      (reference "C310") (unit 1) (value "1u") (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/b0d5e0c4-f394-488b-b96f-315c69034385"
-      (reference "C311") (unit 1) (value "10n") (footprint "")
+      (reference "C311") (unit 1) (value "10n") (footprint "MIMXRT1064 MCU Module:0402_CL05B103KB5NNNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/38ff52e0-91ce-489d-b153-7807ad7862de"
-      (reference "C312") (unit 1) (value "10u") (footprint "")
+      (reference "C312") (unit 1) (value "10u") (footprint "MIMXRT1064 MCU Module:0402_CL05B103KB5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/b4e34282-eb15-476a-b88d-770bd47a0fd9"
-      (reference "C401") (unit 1) (value "4.7u") (footprint "")
+      (reference "C401") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/3d8ee47c-7ecf-4cf5-a5b2-6d35808303f9"
-      (reference "C402") (unit 1) (value "0.22u") (footprint "")
+      (reference "C402") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/affa2bbb-fb33-4522-896c-15e9576d1c50"
-      (reference "C403") (unit 1) (value "10p") (footprint "")
+      (reference "C403") (unit 1) (value "12p") (footprint "MIMXRT1064 MCU Module:0402_GRM1555C1H120GA01D")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/fe4960ab-f892-499e-82bf-e2a2fe9accc4"
-      (reference "C404") (unit 1) (value "10p") (footprint "")
+      (reference "C404") (unit 1) (value "12p") (footprint "MIMXRT1064 MCU Module:0402_GRM1555C1H120GA01D")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/3f0233a0-ccec-48ed-b83e-be5be0e15210"
-      (reference "C405") (unit 1) (value "1u") (footprint "")
+      (reference "C405") (unit 1) (value "1u") (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/f53b6195-1120-4393-99c4-a7c1b904a029"
-      (reference "C406") (unit 1) (value "8p") (footprint "")
+      (reference "C406") (unit 1) (value "8p") (footprint "MIMXRT1064 MCU Module:0402_GCM1555C1H8R0DA16D")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/5f83715c-bb26-4897-abd9-423052067c17"
-      (reference "C407") (unit 1) (value "0.22u") (footprint "")
+      (reference "C407") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/78af9316-4d4b-48ec-8f40-4bdec1be5f94"
-      (reference "C408") (unit 1) (value "0.22u") (footprint "")
+      (reference "C408") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/3605c6f6-6a98-456d-be2f-19c710f754fe"
-      (reference "C409") (unit 1) (value "8p") (footprint "")
+      (reference "C409") (unit 1) (value "8p") (footprint "MIMXRT1064 MCU Module:0402_GCM1555C1H8R0DA16D")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/648a3868-8d0a-4d6d-aeb1-4e320e851bb9"
-      (reference "C410") (unit 1) (value "0.22u") (footprint "")
+      (reference "C410") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/ab52870f-a9b6-4b42-9ab9-b1c786eac80a"
-      (reference "C411") (unit 1) (value "0.22u") (footprint "")
+      (reference "C411") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/d5c977cb-9cdf-4df1-bb6e-c863a11b6c8f"
-      (reference "C412") (unit 1) (value "0.22u") (footprint "")
+      (reference "C412") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/212e43e5-7c6a-4d0d-afa9-f2bc66e3fb03"
-      (reference "C413") (unit 1) (value "0.22u") (footprint "")
+      (reference "C413") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/16791aa9-4177-46e8-ae9c-246b48d3790a"
-      (reference "C414") (unit 1) (value "0.22u") (footprint "")
+      (reference "C414") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/6aea599a-c846-4435-91fd-0da8e41514ad"
-      (reference "C415") (unit 1) (value "4.7u") (footprint "")
+      (reference "C415") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/716e6397-eda3-4749-a3b3-cf15c2d9c6b7"
-      (reference "C416") (unit 1) (value "0.22u") (footprint "")
+      (reference "C416") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/40f28ce3-4602-4e16-b8a0-9bfc6bf43829"
-      (reference "C417") (unit 1) (value "4.7u") (footprint "")
+      (reference "C417") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/6088584b-0dc7-4d5f-992c-0b7934f4943f"
-      (reference "C418") (unit 1) (value "0.22u") (footprint "")
+      (reference "C418") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/fd3876a3-cf0a-4a87-9da8-d4b4e76f5817"
-      (reference "C419") (unit 1) (value "0.22u") (footprint "")
+      (reference "C419") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/30bf0e00-574b-45b6-993f-e0b39ab2882d"
-      (reference "C420") (unit 1) (value "10u") (footprint "")
+      (reference "C420") (unit 1) (value "10u") (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/ab9b247d-f8f3-48a1-961f-bb17f1b828e7"
-      (reference "C421") (unit 1) (value "4.7u") (footprint "")
+      (reference "C421") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/97a55620-b4b4-4d6d-8cf3-454ad7695bff"
-      (reference "C422") (unit 1) (value "0.22u") (footprint "")
+      (reference "C422") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/0b179633-10f9-4219-8a22-efed2085b608"
-      (reference "C423") (unit 1) (value "0.22u") (footprint "")
+      (reference "C423") (unit 1) (value "0.22u") (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/f06d70dc-9775-4edd-baf9-6a34fc657cca"
-      (reference "C424") (unit 1) (value "4.7u") (footprint "")
+      (reference "C424") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/61bf01db-4405-4d08-a6c5-01568279b235"
-      (reference "C425") (unit 1) (value "22u") (footprint "")
+      (reference "C425") (unit 1) (value "22u") (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/2a3e6697-fca3-495b-aefb-c62d67d8f0f1"
       (reference "C501") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
@@ -587,22 +587,22 @@
       (reference "C620") (unit 1) (value "10u") (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/b31c2942-4e51-4d29-b429-95dfb2ed89f6"
-      (reference "D301") (unit 1) (value "RB521S30_R1_00001") (footprint "")
+      (reference "D301") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/2c5b6d59-a1e0-42f8-96ff-48a7a9a7c53b"
-      (reference "D302") (unit 1) (value "RB521S30_R1_00001") (footprint "")
+      (reference "D302") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/94c9384c-531e-44fb-93cd-42cfcbacab73"
-      (reference "D303") (unit 1) (value "~") (footprint "")
+      (reference "D303") (unit 1) (value "~") (footprint "MIMXRT1064 MCU Module:19-218_BHC-ZL1M2QY_3T")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/024e7b2e-36a7-4292-933c-2f0388895000"
-      (reference "D401") (unit 1) (value "RB521S30_R1_00001") (footprint "")
+      (reference "D401") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/29b21083-cdd8-49c4-a279-864e7e56279e"
-      (reference "D402") (unit 1) (value "RB521S30_R1_00001") (footprint "")
+      (reference "D402") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/8e9a58e1-077c-4adc-8e20-9823eceab5dc"
-      (reference "FB401") (unit 1) (value "120R") (footprint "")
+      (reference "FB401") (unit 1) (value "120R") (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/e2195243-903b-4a96-b85e-0c94ad0b7ec3"
       (reference "FB601") (unit 1) (value "120R") (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D")
@@ -611,43 +611,43 @@
       (reference "J601") (unit 1) (value "TF-15x15") (footprint "MIMXRT1064 MCU Module:TF-15x15_smd")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/e8e89738-a317-4e4a-9e27-f0ae0ff6ed1c"
-      (reference "L301") (unit 1) (value "10n") (footprint "")
+      (reference "L301") (unit 1) (value "10n") (footprint "MIMXRT1064 MCU Module:0402_CL05B103KB5NNNC")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/055b2410-9ad2-404f-a1bc-b9e2a59f8503"
-      (reference "L302") (unit 1) (value "2.2u") (footprint "")
+      (reference "L302") (unit 1) (value "2.2u") (footprint "MIMXRT1064 MCU Module:CD32YP0302-2R2M_SMD3.5x3x2.1mm")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/702d3c7a-b662-4c89-99d9-80be908c10f3"
-      (reference "L303") (unit 1) (value "2.2u") (footprint "")
+      (reference "L303") (unit 1) (value "2.2u") (footprint "MIMXRT1064 MCU Module:CD32YP0302-2R2M_SMD3.5x3x2.1mm")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/aa35f619-06f8-46cb-b370-eaecb45677ee"
-      (reference "L401") (unit 1) (value "4.7u") (footprint "")
+      (reference "L401") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:CD32YP0302-4R7M")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/2e0c08c1-01c5-46af-bec3-6576b1f19874"
       (reference "Q601") (unit 1) (value "IRLML6401") (footprint "MIMXRT1064 MCU Module:IRLML6401")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/a3564b2c-c805-421f-a08d-fbb832d3a2f6"
-      (reference "R301") (unit 1) (value "10k") (footprint "")
+      (reference "R301") (unit 1) (value "10k") (footprint "MIMXRT1064 MCU Module:0402WGF1002TCE")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/d7c35144-84f5-45bb-98e5-f1a47c5dd65a"
-      (reference "R302") (unit 1) (value "100k") (footprint "")
+      (reference "R302") (unit 1) (value "100k") (footprint "MIMXRT1064 MCU Module:0402WGF1003TCE")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/7528dee6-33a8-4f03-8960-3b84b34f76b4"
-      (reference "R303") (unit 1) (value "22k") (footprint "")
+      (reference "R303") (unit 1) (value "22k") (footprint "MIMXRT1064 MCU Module:0402WGF2202TCE")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/19922939-ffc8-4d4c-850d-83188545bd9c"
-      (reference "R304") (unit 1) (value "2.2k") (footprint "")
+      (reference "R304") (unit 1) (value "2.2k") (footprint "MIMXRT1064 MCU Module:0402WGF2201TCE")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/6fb81e32-9150-4fd0-ab6a-b4048804a869"
-      (reference "R305") (unit 1) (value "200k") (footprint "")
+      (reference "R305") (unit 1) (value "200k") (footprint "MIMXRT1064 MCU Module:0402WGF2003TCE")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/eccf46e8-164b-4bd6-a7c5-e31a266c70b1"
-      (reference "R306") (unit 1) (value "100k") (footprint "")
+      (reference "R306") (unit 1) (value "100k") (footprint "MIMXRT1064 MCU Module:0402WGF1003TCE")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/f51aae4d-e165-4cfb-88cc-ac9928ace23d"
-      (reference "R401") (unit 1) (value "2.2M") (footprint "")
+      (reference "R401") (unit 1) (value "2.2M") (footprint "MIMXRT1064 MCU Module:0402WGJ0225TCE")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/d1fa013f-3a2b-498c-96cf-2822a204127e"
-      (reference "R402") (unit 1) (value "30k") (footprint "")
+      (reference "R402") (unit 1) (value "30k") (footprint "MIMXRT1064 MCU Module:0402WGF3302TCE")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/425aa4ee-526e-4809-b7c0-ed1ce114e841"
       (reference "R601") (unit 1) (value "10k") (footprint "MIMXRT1064 MCU Module:0402WGF1002TCE")
@@ -658,26 +658,29 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/b967c2d9-888c-4d57-a99d-79c420c66212"
       (reference "R603") (unit 1) (value "10k") (footprint "MIMXRT1064 MCU Module:0402WGF1002TCE")
     )
-    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/137b6eb5-6384-48f4-874d-328d3b20769d"
-      (reference "U301") (unit 1) (value "UM805RE") (footprint "")
-    )
-    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/eaa9f874-df56-436d-8879-1c413c13964d"
-      (reference "U302") (unit 1) (value "UM803RS") (footprint "")
-    )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/5040b528-3d8c-431b-96cc-b62c02ad54e2"
-      (reference "U401") (unit 1) (value "MIMXRT1064CVL5B") (footprint "")
+      (reference "U1") (unit 1) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/b607bc2e-0308-43f8-8a1a-9e231f5cb5d4"
-      (reference "U401") (unit 2) (value "MIMXRT1064CVL5B") (footprint "")
+      (reference "U1") (unit 2) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
+    )
+    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/5c6c425e-8b8a-437f-ba4e-6ed4b39ec3a3"
+      (reference "U1") (unit 3) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/29d1e00f-1bff-4178-ac1f-4d71e7395337"
-      (reference "U501") (unit 4) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
+      (reference "U1") (unit 4) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/99067d3c-5337-42cb-81af-7478edbbeecd"
-      (reference "U501") (unit 5) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
+      (reference "U1") (unit 5) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/db6654dd-7a5e-4210-9fc1-3acef9044136"
-      (reference "U501") (unit 6) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
+      (reference "U1") (unit 6) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
+    )
+    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/137b6eb5-6384-48f4-874d-328d3b20769d"
+      (reference "U301") (unit 1) (value "UM805RE") (footprint "MIMXRT1064 MCU Module:UM805RE")
+    )
+    (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/eaa9f874-df56-436d-8879-1c413c13964d"
+      (reference "U302") (unit 1) (value "UM803RS") (footprint "MIMXRT1064 MCU Module:UM803RS")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/6cb49143-1ddc-49da-8534-4dbe1d25294f"
       (reference "U601") (unit 1) (value "IS42S16160J-6BLI") (footprint "MIMXRT1064 MCU Module:IS42S16160J-6BLI")
@@ -685,23 +688,20 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/891edbf0-42b8-4ffc-b811-51aaf3e97fc1"
       (reference "U602") (unit 1) (value "IS25WP064A-JBLE") (footprint "MIMXRT1064 MCU Module:IS25WP064A-JBLE")
     )
-    (path "/a2f401b1-e3ca-4fba-8477-437af9831272/5c6c425e-8b8a-437f-ba4e-6ed4b39ec3a3"
-      (reference "U603") (unit 3) (value "MIMXRT1064CVL5B") (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B")
-    )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/995c1616-a181-42dd-8c94-306424075a13"
-      (reference "VR301") (unit 1) (value "TLV62569DBV") (footprint "")
+      (reference "VR301") (unit 1) (value "TLV62569DBV") (footprint "MIMXRT1064 MCU Module:TLV62569DBVR")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/a416d11f-766c-4a37-abbf-f22ad09f1bf4"
-      (reference "VR302") (unit 1) (value "TLV62569DBV") (footprint "")
+      (reference "VR302") (unit 1) (value "TLV62569DBV") (footprint "MIMXRT1064 MCU Module:TLV62569DBVR")
     )
     (path "/a020ac19-7a08-4ab7-9f6b-84c6ea2c6252/71cb4d72-7025-4374-9062-57936e8720be"
-      (reference "VR303") (unit 1) (value "TPS79333DBVR") (footprint "")
+      (reference "VR303") (unit 1) (value "TPS79333DBVR") (footprint "MIMXRT1064 MCU Module:TPS79333DBVR_SOT-23-5")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/a6424238-b691-4b04-9f5f-0d425b08ffa2"
-      (reference "Y401") (unit 1) (value "7V24000026") (footprint "")
+      (reference "Y401") (unit 1) (value "7V24000026") (footprint "MIMXRT1064 MCU Module:7V24000026")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/7443c4f9-f033-447b-84a9-9f990a98922e"
-      (reference "Y402") (unit 1) (value "X201232768KJD2SI") (footprint "")
+      (reference "Y402") (unit 1) (value "X201232768KJD2SI") (footprint "MIMXRT1064 MCU Module:X201232768KJD2SI")
     )
   )
 )
