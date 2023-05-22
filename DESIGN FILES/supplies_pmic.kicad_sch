@@ -1239,7 +1239,6 @@
     )
   )
 
-
   (junction (at 195.58 73.66) (diameter 0) (color 0 0 0 0)
     (uuid 00a81e0f-d492-452e-b382-26451b9bec5b)
   )
@@ -1353,7 +1352,7 @@
     (uuid 16ee07c2-e6c6-4b08-8014-56b3cd64b850)
   )
   (polyline (pts (xy 241.3 207.01) (xy 25.4 207.01))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 1782adfc-aaad-491b-a777-2fe456e5e9fb)
   )
 
@@ -1382,7 +1381,7 @@
     (uuid 1dabba94-556a-47b6-8b05-cdaef18b7b59)
   )
   (polyline (pts (xy 25.4 207.01) (xy 25.4 139.7))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 1e19c806-e8d6-440c-a36e-624b0223621f)
   )
 
@@ -1488,7 +1487,7 @@
     (uuid 59546530-fcf5-4929-ba34-53aca367c7ff)
   )
   (polyline (pts (xy 25.4 50.8) (xy 361.95 50.8))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 598e11d1-6aa4-4a6c-b8f1-920edca322c1)
   )
 
@@ -1501,7 +1500,7 @@
     (uuid 5eb76893-14da-4b4f-9400-fcf9cd209b96)
   )
   (polyline (pts (xy 25.4 50.8) (xy 25.4 114.3))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 605402d9-2aa8-48d0-be4d-20247ad98b5f)
   )
 
@@ -1546,7 +1545,7 @@
     (uuid 74e431f9-19fd-4b18-8e18-f8c4ec086d23)
   )
   (polyline (pts (xy 361.95 50.8) (xy 361.95 114.3))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 754781d0-d05e-4265-a55e-2c3bdb1e6ebc)
   )
 
@@ -1563,7 +1562,7 @@
     (uuid 7c8c6fe6-aee7-4653-ba74-b53932c47824)
   )
   (polyline (pts (xy 25.4 114.3) (xy 361.95 114.3))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 7d8f125d-d10b-426f-9b98-1256acc4712c)
   )
 
@@ -1588,7 +1587,7 @@
     (uuid 8befe8d1-3e3f-40c2-88d6-f47c725eb277)
   )
   (polyline (pts (xy 241.3 139.7) (xy 241.3 207.01))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 8cac279b-03dd-4828-8485-776e03ca603e)
   )
 
@@ -1685,7 +1684,7 @@
     (uuid ca50fe9b-8787-4ba7-a9c0-9d115987b687)
   )
   (polyline (pts (xy 25.4 139.7) (xy 241.3 139.7))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid ca99dd08-169d-426c-8aa4-aadb8bc014cf)
   )
 

@@ -2092,7 +2092,6 @@
     )
   )
 
-
   (junction (at 125.73 64.77) (diameter 0) (color 0 0 0 0)
     (uuid 09856781-6604-47fd-b962-98ee2a9a0bc0)
   )
@@ -2331,7 +2330,7 @@
     (uuid 14f133e2-6dd8-433b-b313-4862abc2cffb)
   )
   (polyline (pts (xy 190.5 134.62) (xy 190.5 48.26))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 16aa71bb-30b0-4c77-b0e4-0f7f8f00cb55)
   )
 
@@ -2364,7 +2363,7 @@
     (uuid 1d955607-c8be-4c25-a995-ec58580f1df3)
   )
   (polyline (pts (xy 165.1 266.7) (xy 25.4 266.7))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 1e98ce8c-4772-4316-85f0-30787399ab81)
   )
 
@@ -2373,7 +2372,7 @@
     (uuid 1ee24d54-314a-472c-b22e-55ae12f7f774)
   )
   (polyline (pts (xy 25.4 48.26) (xy 165.1 48.26))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 1ff4a112-678b-4b9c-88d4-14a96b1c64a3)
   )
 
@@ -2486,7 +2485,7 @@
     (uuid 34382bce-e7dc-4821-a4ee-43dfc34e95ae)
   )
   (polyline (pts (xy 190.5 190.5) (xy 332.74 190.5))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 369ad9aa-fad2-455b-8975-14993368de96)
   )
 
@@ -2503,7 +2502,7 @@
     (uuid 3e73045b-794c-4aab-98a9-58d944dc758d)
   )
   (polyline (pts (xy 25.4 266.7) (xy 25.4 190.5))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 4655f950-5598-4b30-9cfb-a7e3f2d66b6b)
   )
 
@@ -2540,7 +2539,7 @@
     (uuid 4f62ea47-189c-4be0-9bc8-26090e995ef3)
   )
   (polyline (pts (xy 165.1 48.26) (xy 165.1 177.8))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 50224a52-4f2c-41f7-80be-aa458e8b7a2c)
   )
 
@@ -2649,7 +2648,7 @@
     (uuid 7278c07e-7346-48a7-ba37-646851387763)
   )
   (polyline (pts (xy 25.4 177.8) (xy 25.4 48.26))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 75035bff-f7d5-4c87-a39b-03ff0c2dd08a)
   )
 
@@ -2746,7 +2745,7 @@
     (uuid 8791b102-7ea5-42f7-8bf0-3c086440bc17)
   )
   (polyline (pts (xy 25.4 190.5) (xy 165.1 190.5))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 887b9ff5-ff1f-462d-a08f-e410df7d462e)
   )
 
@@ -2755,7 +2754,7 @@
     (uuid 8aecac4b-2cf3-4190-b06a-112425eaacb2)
   )
   (polyline (pts (xy 387.35 134.62) (xy 190.5 134.62))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 8ec38528-c38e-411c-834f-f00e0a2d429f)
   )
 
@@ -2788,7 +2787,7 @@
     (uuid 96cc3ffb-1230-4d88-9e4b-c42372160aa3)
   )
   (polyline (pts (xy 165.1 190.5) (xy 165.1 266.7))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid 99d458a3-699e-4420-bbda-8b78287d4d0a)
   )
 
@@ -2857,7 +2856,7 @@
     (uuid b1da3504-af50-4c12-ac89-f9eec7b8e3cd)
   )
   (polyline (pts (xy 190.5 48.26) (xy 387.35 48.26))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid b298007a-2845-48ef-9429-c695c1c53a9b)
   )
 
@@ -2910,7 +2909,7 @@
     (uuid bf22ed34-028a-4015-8678-4f00aaba360a)
   )
   (polyline (pts (xy 165.1 177.8) (xy 25.4 177.8))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid c497daee-a812-46b8-a531-ea329d7657e5)
   )
 
@@ -2923,7 +2922,7 @@
     (uuid c5aad97b-85c2-4006-9238-361df0f0a857)
   )
   (polyline (pts (xy 332.74 190.5) (xy 332.74 246.38))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid c6699809-f52d-493f-bf69-51b2de508e16)
   )
 
@@ -3064,11 +3063,11 @@
     (uuid f448073c-df8e-4f4b-8272-14d6c2fc4b15)
   )
   (polyline (pts (xy 387.35 48.26) (xy 387.35 134.62))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid f48555c7-9385-42e7-b12e-77c053653ec3)
   )
   (polyline (pts (xy 332.74 246.38) (xy 190.5 246.38))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid f4b0431e-715f-4280-b664-a9c3458297bc)
   )
 
@@ -3121,7 +3120,7 @@
     (uuid fc5a1291-c02c-440e-861d-f752eb634f07)
   )
   (polyline (pts (xy 190.5 246.38) (xy 190.5 190.5))
-    (stroke (width 1) (type default) (color 0 0 0 0))
+    (stroke (width 0.5) (type default) (color 0 0 0 0))
     (uuid ff71e7a0-5fe8-4dce-85cc-842c85c6e0a2)
   )
 
@@ -3141,6 +3140,10 @@
   (text "uSD CARD POWER ENABLE" (at 195.58 69.85 0)
     (effects (font (size 3 3) bold italic) (justify left bottom))
     (uuid 2be0f01b-3d20-44dc-a832-1a376ab37035)
+  )
+  (text "6 : MEMORY " (at 25.4 38.1 0)
+    (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
+    (uuid 591531fe-46d8-41fa-860d-9647e57b273d)
   )
   (text "SDRAM" (at 142.24 58.42 0)
     (effects (font (size 3 3) bold italic) (justify left bottom))
