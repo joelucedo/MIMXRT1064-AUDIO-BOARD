@@ -463,8 +463,8 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/67a7c613-9fae-48f8-bcb8-ae3cc08cfd72"
       (reference "J601") (unit 1) (value "TF-15x15") (footprint "MIMXRT1064 MCU Module:TF-15x15_smd")
     )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/aa35f619-06f8-46cb-b370-eaecb45677ee"
-      (reference "L401") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:CD32YP0302-4R7M")
+    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/26c135e5-b546-426d-aba0-d64dfe206e70"
+      (reference "L401") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:LQM21PN4R7MGRD")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/f51aae4d-e165-4cfb-88cc-ac9928ace23d"
       (reference "R401") (unit 1) (value "2.2M") (footprint "MIMXRT1064 MCU Module:0402WGJ0225TCE")
