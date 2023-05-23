@@ -1373,7 +1373,7 @@
       (property "ki_keywords" "cap capacitor" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "22uF MLCC - 6.3V - X5R ±20%" (id 5) (at 0 0 0)
+      (property "ki_description" "SMD MLCC - 22uF - 6.3V - X5R - ±20% -0603" (id 5) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_fp_filters" "C_*" (id 6) (at 0 0 0)
