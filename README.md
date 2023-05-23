@@ -3,7 +3,7 @@
 A small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD than can be plugged on carrier board with mezzannine connector.
 </br>
 ## STATUS
-Work in progress.  
+Work in progress.
 </br>
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
