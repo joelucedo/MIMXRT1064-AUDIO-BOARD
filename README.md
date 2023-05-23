@@ -1,9 +1,10 @@
 # MIMXRT1064 MCU Module
-## STATUS
-Work in progress.  
+## WHAT ?
+A small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD than can be plugged on carrier board with mezzannine connector.
 </br>
-The goal is to have a powerfull small audio system on module supported by the FAUST audio DSP programming language.  
-Something like small form factor (4x4) low profile module with castellated pads to be solder on carrier board.
+## STATUS
+Work in progress.
+</br>
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
 * ***Cores*** : 1 x ARM Cortex M7 (32KB L1 Cache - FPU)
@@ -21,12 +22,4 @@ Something like small form factor (4x4) low profile module with castellated pads 
 * ***Maximum clock frequency*** : 133MHz
 #### SD Memory Card Socket
 * ***Capacity*** : Up to 2TB SDHX card
-* ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104)
-#### Audio codec : WM8978CGEFL/RV
-* ***Sampling rate*** : Up to 48MHz
-* ***Bit Depth*** : 24 bits (ADC & DAC)
-* ***Nbr of Channels*** : 1 channel (LADC - RADC - LDAC - RDAC)
-* ***On-chip Headphone Driver***
-* ***1W output power for 8ohm BTL speaker***
-* ***Mic preamps (stereo differential or mono)***
-* ***Multiple Line inputs & outputs*** 
+* ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104) 
