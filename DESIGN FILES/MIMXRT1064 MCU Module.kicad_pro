@@ -335,11 +335,11 @@
     ],
     [
       "574a2f6c-1db5-4366-bd73-1f4d156f4a53",
-      "MCU GPIO"
+      "MCU GPIO & BUS"
     ],
     [
       "a2f401b1-e3ca-4fba-8477-437af9831272",
-      "MEMORY"
+      "MEMORY "
     ]
   ],
   "text_variables": {}

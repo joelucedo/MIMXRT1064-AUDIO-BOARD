@@ -1,4 +1,4 @@
-(footprint "TC0225F3002TCE" (version 20211014) (generator pcbnew)
+(footprint "AF0402FR-0730KL" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
   (descr "30k SMD Resistor 0402 62.5mW 1%")
