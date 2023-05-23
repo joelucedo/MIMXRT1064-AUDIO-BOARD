@@ -1,6 +1,6 @@
 # MIMXRT1064 MCU Module
 ## WHAT ?
-A small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD than can be plugged on carrier board with mezzannine connector.
+A small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD that can be plugged on carrier board with mezzannine connector.
 </br>
 ## STATUS
 Work in progress.
