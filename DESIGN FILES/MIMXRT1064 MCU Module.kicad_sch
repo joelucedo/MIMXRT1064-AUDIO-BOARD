@@ -5,10 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "Table on contents")
-    (date "2023-05-19")
+    (title "MIMXRT1064 MCU Module")
+    (date "2023-05-23")
     (rev "0")
-    (company "Soundsom")
+    (company "Joël Ucedo")
   )
 
   (lib_symbols
@@ -22,6 +22,10 @@
   (text "PAGE 6" (at 24.13 157.48 0)
     (effects (font (size 5 5) bold italic) (justify left bottom))
     (uuid 071a3ad4-a1b2-4b50-b78f-e58ce998f4ab)
+  )
+  (text "PAGE 7" (at 24.13 182.88 0)
+    (effects (font (size 5 5) bold italic) (justify left bottom))
+    (uuid 54d2cf67-712c-4101-896c-e47b7a07f265)
   )
   (text "PAGE 3" (at 24.13 80.01 0)
     (effects (font (size 5 5) bold italic) (justify left bottom))
@@ -93,6 +97,18 @@
     )
   )
 
+  (sheet (at 63.5 172.72) (size 12.7 13.97)
+    (stroke (width 1) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d10fccf0-29f0-4392-b875-5cee27b3fc14)
+    (property "Sheet name" "MEZZANNINE" (id 0) (at 77.47 181.61 0)
+      (effects (font (size 3 3) bold italic) (justify left bottom))
+    )
+    (property "Sheet file" "mezzannine.kicad_sch" (id 1) (at 63.5 187.6984 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
   (sheet (at 63.5 44.45) (size 12.7 12.7)
     (stroke (width 1) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -112,6 +128,7 @@
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b" (page "4"))
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53" (page "5"))
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272" (page "6"))
+    (path "/d10fccf0-29f0-4392-b875-5cee27b3fc14" (page "7"))
   )
 
   (symbol_instances
@@ -168,9 +185,6 @@
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/1ac889db-ea9d-46ff-8960-1bd370a6bfae"
       (reference "#PWR0404") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/e5359e96-d77a-4c98-a2f9-0d78025e8457"
-      (reference "#PWR0405") (unit 1) (value "VDD_SNVS_3V3") (footprint "")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/009a49bb-70c2-47ac-bda5-07d9269c6bdf"
       (reference "#PWR0406") (unit 1) (value "+3V3") (footprint "")
@@ -447,12 +461,6 @@
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/210b0443-7a9c-465e-b6ac-c9102ef69008"
       (reference "C619") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
-    )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/024e7b2e-36a7-4292-933c-2f0388895000"
-      (reference "D401") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
-    )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/29b21083-cdd8-49c4-a279-864e7e56279e"
-      (reference "D402") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/8e9a58e1-077c-4adc-8e20-9823eceab5dc"
       (reference "FB401") (unit 1) (value "120R") (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D")

@@ -5,27 +5,18 @@
   (paper "A3")
 
   (title_block
-    (title "MCU Power & Crystals")
-    (date "2023-05-12")
+    (title "MIMXRT1064 MCU Module")
+    (date "2023-05-23")
     (rev "0")
-    (company "Soundsom")
+    (company "Joël Ucedo")
   )
 
   (lib_symbols
   )
 
 
-  (text "--> +3V3\n--> +3V3 SNVS\n--> +3V3 SD\n--> +1V8\n\n--> MANUAL & WATCHDOG RESET\n--> BELOW THRESHOLD VOLTAGE RESET\n\n"
-    (at 73.66 247.65 0)
-    (effects (font (size 10 10) (thickness 2) bold italic) (justify left bottom))
-    (uuid 45d861f1-f136-404b-a0f5-7a7feb7f97a0)
-  )
-  (text "SUPPLIES & PMIC ON CARRIER BOARDS" (at 73.66 91.44 0)
+  (text "SUPPLIES & PMIC ON CARRIER BOARDS" (at 60.96 147.32 0)
     (effects (font (size 10 10) (thickness 2) bold italic) (justify left bottom))
     (uuid b107871e-6fec-4526-b632-eab842e5ec57)
-  )
-  (text "3 : SUPPLIES & PMIC" (at 25.4 26.67 0)
-    (effects (font (size 5 5) (thickness 1) bold italic) (justify left bottom))
-    (uuid d3fc1374-98c8-495a-8730-ade2aefa0afc)
   )
 )

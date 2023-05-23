@@ -5,10 +5,10 @@
   (paper "A3")
 
   (title_block
-    (title "Memory")
-    (date "2023-05-19")
+    (title "MIMXRT1064 MCU Module")
+    (date "2023-05-23")
     (rev "0")
-    (company "Soundsom")
+    (company "Joël Ucedo")
   )
 
   (lib_symbols
