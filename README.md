@@ -2,7 +2,7 @@
 ## STATUS
 Work in progress.  
 </br>
-The goal is to have a small module with M7 MCU + SDRAM + flash + SD to be plugged on carrier board.
+The goal is to have a small module with M7 MCU + SDRAM + FLASH + SD to be plugged on carrier board.
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
 * ***Cores*** : 1 x ARM Cortex M7 (32KB L1 Cache - FPU)
