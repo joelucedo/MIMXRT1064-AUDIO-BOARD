@@ -2,7 +2,7 @@
 ## STATUS
 Work in progress.  
 </br>
-The goal is to have a small (40mm * 40mm) module with M7 MCU + SDRAM + FLASH + SD than can be plugged on carrier board with mezzannine connector.
+The goal is to have a small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD than can be plugged on carrier board with mezzannine connector.
 ## SPECS
 #### MCU : MIMXRT1064CVL5B 
 * ***Cores*** : 1 x ARM Cortex M7 (32KB L1 Cache - FPU)
