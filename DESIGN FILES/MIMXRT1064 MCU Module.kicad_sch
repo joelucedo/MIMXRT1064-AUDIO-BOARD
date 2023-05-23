@@ -440,13 +440,13 @@
       (reference "C611") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/a5485ba4-fac1-42bd-bd09-a66b9f6607bb"
-      (reference "C616") (unit 1) (value "22uF") (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC")
+      (reference "C616") (unit 1) (value "22u") (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/c1233bdd-3408-4acf-9c21-5b57d6d2f26d"
-      (reference "C617") (unit 1) (value "4.7uF") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
+      (reference "C617") (unit 1) (value "4.7u") (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC")
     )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/210b0443-7a9c-465e-b6ac-c9102ef69008"
-      (reference "C619") (unit 1) (value "100nF") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
+      (reference "C619") (unit 1) (value "100n") (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/024e7b2e-36a7-4292-933c-2f0388895000"
       (reference "D401") (unit 1) (value "RB521S30_R1_00001") (footprint "MIMXRT1064 MCU Module:RB521S30_R1_00001")
