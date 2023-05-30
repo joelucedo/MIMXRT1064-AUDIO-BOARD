@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2a23572f-f8a2-416b-9c88-2d84cbecb49d)
+
+  (paper "A3")
+
+  (title_block
+    (title "MIMXRT1064 MCU Module")
+    (date "2023-05-23")
+    (rev "0")
+    (company "Joël Ucedo")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "7 : M.2 CONNECTOR" (at 24.13 39.37 0)
+    (effects (font (size 5 5) bold italic) (justify left bottom))
+    (uuid 4d81f301-556a-414a-ac36-5f9314174bee)
+  )
+)

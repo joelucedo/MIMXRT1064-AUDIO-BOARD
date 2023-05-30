@@ -15,7 +15,7 @@
   )
 
 
-  (text "SUPPLIES & PMIC ON CARRIER BOARDS" (at 60.96 147.32 0)
+  (text "SUPPLIES & PMIC ON CARRIER BOARD" (at 60.96 147.32 0)
     (effects (font (size 10 10) (thickness 2) bold italic) (justify left bottom))
     (uuid b107871e-6fec-4526-b632-eab842e5ec57)
   )
