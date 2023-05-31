@@ -1,6 +1,7 @@
-# MIMXRT1064 MCU Module
+# MIMXRT1064 AUDIO BOARD
 ## WHAT ?
-A small (40mm x 40mm) module with M7 MCU + SDRAM + FLASH + SD to be plugged on carrier board with mezzannine connector.
+Audio board based on NXP M7 microcontroller.
+M7 MCU + SDRAM + FLASH + SD + AUDIO CODEC + LINE IN/OUT + HEADPHONE + MIDI IN/OUT/THRU + USB + JTAG
 </br>
 ## STATUS
 Work in progress.
