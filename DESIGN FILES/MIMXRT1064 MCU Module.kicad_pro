@@ -343,7 +343,19 @@
     ],
     [
       "d10fccf0-29f0-4392-b875-5cee27b3fc14",
-      "M.2 CONNECTOR"
+      "AUDIO"
+    ],
+    [
+      "8b3b6589-2247-48dd-86fa-85fd6140559c",
+      "MIDI"
+    ],
+    [
+      "21ef7e85-26c6-40fd-937c-155ecfe24cbf",
+      "EXTENSION IO"
+    ],
+    [
+      "0db1eb47-189c-4047-9032-900fc2096b06",
+      "USB - JTAG"
     ]
   ],
   "text_variables": {}
