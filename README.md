@@ -1,6 +1,7 @@
 # MIMXRT1064 AUDIO BOARD
 ## WHAT ?
-NXP M7 MCU + SDRAM + FLASH + SD + AUDIO CODEC + LINE IN/OUT + HEADPHONE + MIDI IN/OUT/THRU + USB + JTAG
+Audio board based on NXP M7 microcontroller.
+M7 MCU + SDRAM + FLASH + SD + AUDIO CODEC + LINE IN/OUT + HEADPHONE + MIDI IN/OUT/THRU + USB + JTAG
 </br>
 ## STATUS
 Work in progress.
@@ -22,4 +23,8 @@ Work in progress.
 * ***Maximum clock frequency*** : 133MHz
 #### SD Memory Card Socket
 * ***Capacity*** : Up to 2TB SDHX card
-* ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104) 
+* ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104)
+#### Audio & MIDI
+* ***Codec*** : WM8978CGEFL/RV
+* ***Audio*** : Line in & out
+* ***MIDI*** : MIDI in & out & thru
