@@ -1,6 +1,5 @@
 # MIMXRT1064 AUDIO BOARD
 ## WHAT ?
-Audio board based on NXP M7 microcontroller.
 M7 MCU + SDRAM + FLASH + SD + AUDIO CODEC + LINE IN/OUT + HEADPHONE + MIDI IN/OUT/THRU + USB + JTAG
 </br>
 ## STATUS
