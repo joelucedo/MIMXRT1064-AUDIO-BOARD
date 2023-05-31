@@ -236,7 +236,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 01146f9a-c6dd-44a4-b6b1-e7eb411ea17d)
-    (at 131.318 73.406)
+    (at 132.142 80.564)
     (descr "6.3V 22uF X5R ±20% 0603 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -278,7 +278,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 05edd09f-d97d-4bc7-8826-5d8222ea0099)
-    (at 160.033 76.708)
+    (at 149.606 67.056)
     (descr "10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -320,7 +320,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 05f79a46-0abd-4159-ab05-d6c8cc2050ea)
-    (at 210.858 90.946)
+    (at 67.028 64.262)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -362,7 +362,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0855d5bf-631d-4307-a93c-5b70fa236156)
-    (at 130.748 81.556)
+    (at 131.572 88.714)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -404,7 +404,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 09f5c78b-601a-4597-8ce0-c3dafb266f01)
-    (at 203.754 92.634 90)
+    (at 59.924 65.95 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -446,7 +446,7 @@
 
   (footprint "MIMXRT1064 MCU Module:IS42S16160J-6BLI" (layer "F.Cu")
     (tedit 0) (tstamp 0d14130b-b6df-4110-80dd-05695d72e161)
-    (at 157.48 91.948 -90)
+    (at 141.986 79.756 -90)
     (descr "54-ball BGA")
     (tags "Integrated Circuit")
     (property "Arrow Part Number" "IS42S16160J-6BLI")
@@ -608,7 +608,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0dba1bfd-15ab-44a5-b393-2d94784a1efb)
-    (at 188.722 88.138 180)
+    (at 171.586 80.71 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -650,7 +650,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402WGF1002TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0f4e601b-0442-495d-9152-06a9061c5a4b)
-    (at 207.968 90.996)
+    (at 64.138 64.312)
     (descr "10kΩ 0402 Chip Resistor 62.5mW ±1% ")
     (tags "resistor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -692,7 +692,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 1313b864-fa83-4478-a39d-694f722381b3)
-    (at 203.754 89.764 90)
+    (at 59.924 63.08 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -734,7 +734,7 @@
 
   (footprint "MIMXRT1064 MCU Module:LQM21PN4R7MGRD" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 152426f9-3c00-46d6-9640-4fafb1f54c67)
-    (at 219.564 101.6)
+    (at 75.734 74.916)
     (descr "Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -776,7 +776,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 1b8cb8fd-b300-49a9-9a01-75dcdcb242b5)
-    (at 205.724 92.634 90)
+    (at 61.894 65.95 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -818,7 +818,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 1edebfa8-f196-4f40-8751-2407306264a6)
-    (at 205.724 95.504 90)
+    (at 61.894 68.82 90)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -860,7 +860,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 28f80194-9a4a-4602-98bd-5e64121868d3)
-    (at 130.748 77.616)
+    (at 131.572 84.774)
     (descr "25V 1uF X5R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -902,7 +902,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 28fb026d-7aee-449b-9810-a6dc742755e7)
-    (at 215.468 88.476)
+    (at 71.638 61.792)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -944,7 +944,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 2e40808d-f08b-42f0-8fb2-3bd25b8c136d)
-    (at 214.754 91.932 180)
+    (at 70.924 65.248 180)
     (descr "25V 1uF X5R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -986,7 +986,7 @@
 
   (footprint "MIMXRT1064 MCU Module:Q13FC1350000200" (layer "F.Cu")
     (tedit 0) (tstamp 2f0e92a1-fd74-4cfd-88ea-0e0d18e34c1b)
-    (at 178.308 101.092 -90)
+    (at 168.91 94.488 -90)
     (descr "Q13FC1350000200-1")
     (tags "Crystal or Oscillator")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1040,7 +1040,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402WGJ0225TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 328e5ee6-c067-47df-831c-07ded46f9cb6)
-    (at 170.434 101.6 -90)
+    (at 157.056 94.488 -90)
     (descr "2.2M SMD Resistor 0402 62.5mW 1%")
     (tags "resistor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1082,7 +1082,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_GRM1555C1H120GA01D" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 371732cc-b4d3-4022-8fdd-5f14d444dd97)
-    (at 168.402 102.616 180)
+    (at 155.024 95.504 180)
     (descr "50V 12pF ±2% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1124,7 +1124,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3a015aaf-9728-4b24-a4cb-d026674a6cb4)
-    (at 235.712 94.488 180)
+    (at 91.882 67.804 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1166,7 +1166,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_CL10A106KP8NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3c08429a-286a-4dea-8c91-874f60b044b6)
-    (at 214.814 102.552 180)
+    (at 70.984 75.868 180)
     (descr "10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1208,7 +1208,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3c757974-4ec3-4efb-afe7-ce719ac31297)
-    (at 216.484 95.872 180)
+    (at 72.654 69.188 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1250,7 +1250,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3c9d4123-a814-4b7c-9272-50e0b92595bd)
-    (at 213.728 90.446)
+    (at 69.898 63.762)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -1292,7 +1292,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3ef4da10-d339-453d-bf88-a0279f69a24d)
-    (at 162.333 78.948)
+    (at 151.906 69.296)
     (descr "25V 1uF X5R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -1334,7 +1334,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 4187df2b-e03c-4b4c-94b5-17a3f2bdf396)
-    (at 207.824 102.822 180)
+    (at 63.994 76.138 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1376,7 +1376,7 @@
 
   (footprint "MIMXRT1064 MCU Module:IS25WP064A-JBLE" (layer "F.Cu")
     (tedit 0) (tstamp 4b49529a-46a0-47c1-8d92-d8a654de2ab4)
-    (at 157.226 100.838 180)
+    (at 141.732 94.234 180)
     (descr "8L 208ml SOP")
     (tags "Integrated Circuit")
     (property "Arrow Part Number" "IS25WP064A-JBLE")
@@ -1445,7 +1445,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 520861b1-c198-4bf3-a5bd-db0cff7e619d)
-    (at 130.725 88.843)
+    (at 131.549 96.001)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -1487,7 +1487,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 56e28c90-ed50-4dcf-bf97-4e616469c638)
-    (at 213.614 97.862 180)
+    (at 69.784 71.178 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1529,7 +1529,7 @@
 
   (footprint "MIMXRT1064 MCU Module:MIMXRT1064CVL5B" (layer "F.Cu")
     (tedit 0) (tstamp 5e6e4c4e-6c95-4278-a776-c660ec2530cf)
-    (at 170.18 91.948)
+    (at 159.258 81.026)
     (descr "10 x 10 mm BGA(pitch 0.65mm)")
     (tags "Integrated Circuit")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -1964,7 +1964,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 616c0078-1a77-4505-a5e7-c70609fbd49a)
-    (at 212.68 84.882)
+    (at 68.85 58.198)
     (descr "6.3V 22uF X5R ±20% 0603 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -2006,7 +2006,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 68f25ebb-70e5-4d8d-9587-7f01cb6d72f5)
-    (at 163.473 76.438)
+    (at 153.046 66.786)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2048,7 +2048,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 76e799ab-419a-43b4-8b38-6fa31c97d622)
-    (at 219.774 86.972 180)
+    (at 75.944 60.288 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2090,7 +2090,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 78f9a6fa-08c9-4789-a5af-6986c151b86e)
-    (at 220.494 92.882 180)
+    (at 76.664 66.198 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2132,7 +2132,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7c107894-7e0d-45bf-b0eb-f77de846c14e)
-    (at 214.754 93.902 180)
+    (at 70.924 67.218 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2174,7 +2174,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7df5f6b8-5de8-41ac-ae7a-b002183bc0eb)
-    (at 203.754 86.894 90)
+    (at 59.924 60.21 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2216,7 +2216,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 80640b84-8258-4bbb-8cc1-4178fdc18d7b)
-    (at 218.894 88.942 180)
+    (at 75.064 62.258 180)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2258,7 +2258,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 84d3f55c-b575-4ea5-9fed-62c77e4fb730)
-    (at 130.725 86.873)
+    (at 131.549 94.031)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -2300,7 +2300,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 88505b35-a35e-495c-96fa-bf3d721e42af)
-    (at 201.784 89.764 90)
+    (at 57.954 63.08 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2342,7 +2342,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_CL10A226MQ8NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8b6862e2-6c9a-478d-8327-80fe08dcabdf)
-    (at 219.924 97.572 180)
+    (at 76.094 70.888 180)
     (descr "6.3V 22uF X5R ±20% 0603 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2384,7 +2384,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8c64646f-6d6e-46a6-9fe4-9f366fb389a0)
-    (at 220.494 90.912 180)
+    (at 76.664 64.228 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2426,7 +2426,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 966edf1f-1ac5-45c9-a7dd-6521c983484d)
-    (at 201.784 95.504 90)
+    (at 57.954 68.82 90)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2468,7 +2468,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_GRM1555C1H120GA01D" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 98497403-6818-4764-9755-0c9d453af9cd)
-    (at 168.402 101.092 180)
+    (at 155.024 93.98 180)
     (descr "50V 12pF ±2% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2510,7 +2510,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 98eef142-9f2d-46b3-bfc4-49ec2b17dea7)
-    (at 203.754 95.504 90)
+    (at 59.924 68.82 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2552,7 +2552,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a0cf1882-72f0-4974-bb06-42aa01a4ea23)
-    (at 130.748 79.586)
+    (at 131.572 86.744)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -2594,7 +2594,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a68b86f7-0eda-47ad-b5f7-0069983c4f0a)
-    (at 206.094 100.852 180)
+    (at 62.264 74.168 180)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2636,7 +2636,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a8063cf4-8b66-4812-9a0c-86d3f5d01c54)
-    (at 189.602 86.168 180)
+    (at 172.466 78.74 180)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2678,7 +2678,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp aa790ad9-3a6d-4644-87ff-e9d7d83b0d59)
-    (at 216.484 97.842 180)
+    (at 72.654 71.158 180)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2720,7 +2720,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_GCM1555C1H8R0DA16D" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b12020d6-88aa-48f1-b425-37276515d54d)
-    (at 178.054 96.52 -90)
+    (at 167.132 85.598 -90)
     (descr "50V 8pF C0G 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2762,7 +2762,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b7c69778-f603-4ec2-9977-4e544d8d6e08)
-    (at 213.614 95.892 180)
+    (at 69.784 69.208 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2804,7 +2804,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_GCM1555C1H8R0DA16D" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b8792fae-3592-4745-a7a9-6d9b7caf0b97)
-    (at 179.832 96.52 -90)
+    (at 168.91 85.598 -90)
     (descr "50V 8pF C0G 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -2846,7 +2846,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c180a46b-cedf-4c44-a5e7-0e32c22612bc)
-    (at 211.69 87.122)
+    (at 67.86 60.438)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -2888,7 +2888,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402WGF1002TCE" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp c89b97b0-6a90-4cbd-809f-6597016d2491)
-    (at 131.885 84.373)
+    (at 132.709 91.531)
     (descr "10kΩ 0402 Chip Resistor 62.5mW ±1% ")
     (tags "resistor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -2930,7 +2930,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cd5d748b-1ac0-45a2-ba6e-6d294ef8b03c)
-    (at 201.784 86.894 90)
+    (at 57.954 60.21 90)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -2972,7 +2972,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cda24d10-e134-4d57-bd91-dae5fc1e12c8)
-    (at 216.12 84.612)
+    (at 72.29 57.928)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -3014,7 +3014,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d2b5bc11-f149-4bd4-8c30-79993aa8ee18)
-    (at 130.361 90.723)
+    (at 131.185 97.881)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -3056,7 +3056,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D" (layer "F.Cu")
     (tedit 5D288D2B) (tstamp d39273eb-d991-45f9-8102-90c8fe44943c)
-    (at 209.388 88.726)
+    (at 65.558 62.042)
     (descr "120R Ferrite Bead - 800mA - 1 - 80mΩ - ±25%")
     (property "Sheetfile" "memory.kicad_sch")
     (property "Sheetname" "MEMORY ")
@@ -3097,7 +3097,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0603_BLM18AG121SN1D" (layer "F.Cu")
     (tedit 5D288D2B) (tstamp df2eb0d5-9197-4db4-aa7d-0b7d98740cb1)
-    (at 211.034 102.572 180)
+    (at 67.204 75.888 180)
     (descr "120R Ferrite Bead - 800mA - 1 - 80mΩ - ±25%")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
     (property "Sheetname" "MCU POWER & CRYSTALS")
@@ -3138,7 +3138,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp dfb81dba-3117-4e31-8281-05c871a988d7)
-    (at 211.834 100.312 180)
+    (at 68.004 73.628 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -3180,7 +3180,7 @@
 
   (footprint "MIMXRT1064 MCU Module:AF0402FR-0730KL" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e0d2628d-e1aa-4799-bfa2-50c8df660633)
-    (at 160.814 80.951)
+    (at 150.387 71.299)
     (descr "30k SMD Resistor 0402 62.5mW 1%")
     (tags "resistor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -3222,7 +3222,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A105KA5NQNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e2719a40-caf7-47b2-8973-e0d8d6bbed8b)
-    (at 159.463 78.948)
+    (at 149.036 69.296)
     (descr "25V 1uF X5R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -3264,7 +3264,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e9df4a23-9746-44ec-aa96-c88bfaa7a5d5)
-    (at 201.784 92.634 90)
+    (at 57.954 65.95 90)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -3306,7 +3306,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ea7e6886-ca25-4e7d-a3e1-e3190c46df7e)
-    (at 205.724 89.764 90)
+    (at 61.894 63.08 90)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "gpio.kicad_sch")
@@ -3348,7 +3348,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B104KB54PNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ec4ad302-fa32-4873-9dc1-6d9d35853e87)
-    (at 130.748 75.646)
+    (at 131.572 82.804)
     (descr "50V 100nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "memory.kicad_sch")
@@ -3390,7 +3390,7 @@
 
   (footprint "MIMXRT1064 MCU Module:7V24000026" (layer "F.Cu")
     (tedit 6468DFAE) (tstamp ec9155bd-e794-4adc-96bf-8b344afc9888)
-    (at 173.482 102.362 -90)
+    (at 160.104 95.25 -90)
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
     (property "Sheetname" "MCU POWER & CRYSTALS")
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/a6424238-b691-4b04-9f5f-0d425b08ffa2")
@@ -3432,7 +3432,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f2cdb937-23c4-4a8e-9537-06ca02ada0c9)
-    (at 208.964 100.352 180)
+    (at 65.134 73.668 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -3474,7 +3474,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05A475MP5NRNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f4f1427d-401d-46e3-bd00-4aeea6675645)
-    (at 177.908 86.822 180)
+    (at 166.986 75.9 180)
     (descr "10V 4.7uF X5R ±20% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -3516,22 +3516,22 @@
 
   (footprint "MIMXRT1064 MCU Module:TF-15x15_smd" (layer "F.Cu")
     (tedit 0) (tstamp fc4b22bb-ff06-4838-bf01-2b13be8b7c62)
-    (at 131.464 116.332 90)
+    (at 133.35 129.648 180)
     (descr "Micro SD socket")
     (tags "Connector")
     (property "Sheetfile" "memory.kicad_sch")
     (property "Sheetname" "MEMORY ")
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/67a7c613-9fae-48f8-bcb8-ae3cc08cfd72")
     (attr through_hole)
-    (fp_text reference "J601" (at 0 -0.4 90) (layer "F.SilkS")
+    (fp_text reference "J601" (at 0 -0.4) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 8bad8842-1935-4633-89f0-689eadf45bac)
     )
-    (fp_text value "TF-15x15" (at 0 -0.4 90) (layer "F.SilkS") hide
+    (fp_text value "TF-15x15" (at 0 -0.4) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 5917ffa0-f711-4d24-9bfd-74229944ea8d)
     )
-    (fp_text user "${REFERENCE}" (at 0 -0.4 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -0.4) (layer "F.Fab")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 14d9e0fc-bad1-45a2-a889-8dfcce79cf60)
     )
@@ -3553,33 +3553,33 @@
     (fp_line (start -7.35 7.6) (end -7.35 -7.6) (layer "F.Fab") (width 0.2) (tstamp 3a982cc4-8b44-45f9-af96-9e3812fafbbb))
     (fp_line (start 7.35 7.6) (end -7.35 7.6) (layer "F.Fab") (width 0.2) (tstamp 750ebe9e-c4c1-4c06-956f-5b5c360d0990))
     (fp_line (start -7.35 -7.6) (end 7.35 -7.6) (layer "F.Fab") (width 0.2) (tstamp e0d3fc34-7574-400e-9a74-36e4f46f635d))
-    (pad "" np_thru_hole circle (at -4.95 3.4 90) (size 1 1) (drill 1) (layers *.Cu *.Mask) (tstamp 4d4eb927-f583-4b90-bccf-c2579322402f))
-    (pad "" np_thru_hole circle (at 3.05 3.4 90) (size 1 1) (drill 1) (layers *.Cu *.Mask) (tstamp 96203e72-cc6d-40f2-b1dd-85055088d94e))
-    (pad "1" smd rect (at 2.25 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "" np_thru_hole circle (at -4.95 3.4 180) (size 1 1) (drill 1) (layers *.Cu *.Mask) (tstamp 4d4eb927-f583-4b90-bccf-c2579322402f))
+    (pad "" np_thru_hole circle (at 3.05 3.4 180) (size 1 1) (drill 1) (layers *.Cu *.Mask) (tstamp 96203e72-cc6d-40f2-b1dd-85055088d94e))
+    (pad "1" smd rect (at 2.25 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "SD_DAT2") (pinfunction "DAT2") (pintype "bidirectional") (tstamp b0fe2060-e790-410f-9744-0f4fec52fc30))
-    (pad "2" smd rect (at 1.15 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 1.15 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 12 "SD_DAT3") (pinfunction "DAT3/CD") (pintype "bidirectional") (tstamp 6b91195a-b49d-41f6-be0a-53305ff34589))
-    (pad "3" smd rect (at 0.05 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "3" smd rect (at 0.05 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 14 "SD_CMD") (pinfunction "CMD") (pintype "input") (tstamp d5429da2-db97-4f40-b264-2fabd8cce6fb))
-    (pad "4" smd rect (at -1.05 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "4" smd rect (at -1.05 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 39 "VSD_3V3") (pinfunction "VDD") (pintype "power_in") (tstamp 3a78aa20-9f0d-4c39-847b-9bd6e101a046))
-    (pad "5" smd rect (at -2.15 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "5" smd rect (at -2.15 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 15 "SD_CLK") (pinfunction "CLK") (pintype "input") (tstamp 7c124ac3-98e9-4db4-8b01-88777a5f6eee))
-    (pad "6" smd rect (at -3.25 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at -3.25 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "VSS") (pintype "power_in") (tstamp 7c22e9fa-d664-46ad-af97-611bef1110c0))
-    (pad "7" smd rect (at -4.35 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "7" smd rect (at -4.35 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 16 "SD_DAT0") (pinfunction "DAT0") (pintype "bidirectional") (tstamp f6d89250-ae9c-46ef-ac22-fdda76de7301))
-    (pad "8" smd rect (at -5.45 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "8" smd rect (at -5.45 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 17 "SD_DAT1") (pinfunction "DAT1") (pintype "bidirectional") (tstamp 820dab31-0c01-4d2d-9ccc-a5d2a747cb0d))
-    (pad "9" smd rect (at -6.55 -7.1 90) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "9" smd rect (at -6.55 -7.1 180) (size 0.7 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "SD_CD_SW") (pinfunction "CD") (pintype "passive") (tstamp 084865bd-98f4-4c59-b39b-343e24678757))
-    (pad "10" smd rect (at -7.75 3 90) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "10" smd rect (at -7.75 3 180) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "MP1") (pintype "passive") (tstamp 7767accf-17b0-459a-82f1-a455e3241038))
-    (pad "11" smd rect (at 7.75 3 90) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "11" smd rect (at 7.75 3 180) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "MP2") (pintype "passive") (tstamp 7790c78a-8c85-4e94-b354-d6fa3d384d22))
-    (pad "12" smd rect (at 6.85 -6.6 180) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "12" smd rect (at 6.85 -6.6 270) (size 1.4 1.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "MP3") (pintype "passive") (tstamp a043fbc3-06c0-4d6d-a230-32dd4dd81d8d))
-    (pad "13" smd rect (at -7.75 -6.5 90) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "13" smd rect (at -7.75 -6.5 180) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "MP4") (pintype "passive") (tstamp a3f09079-ca06-4cad-818f-06242543404b))
     (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/TF-15x15.wrl.wrl"
       (offset (xyz 0 8 0))
@@ -3590,7 +3590,7 @@
 
   (footprint "MIMXRT1064 MCU Module:0402_CL05B224KO5NNNC" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp fd6735ac-2880-4eec-bb32-19893f9e0fb4)
-    (at 210.744 98.342 180)
+    (at 66.914 71.658 180)
     (descr "16V 220nF X7R ±10% 0402 MLCC")
     (tags "capacitor")
     (property "Sheetfile" "pwrpin_crystals.kicad_sch")
@@ -3630,20 +3630,27 @@
     )
   )
 
-  (gr_rect (start 150.876 64.008) (end 181.102 105.156) (layer "Edge.Cuts") (width 1) (fill none) (tstamp 13216b14-792b-4961-80d8-7f8b6fb5c2de))
+  (gr_arc (start 90.062 38.1) (mid 93.781744 29.119744) (end 102.762 25.4) (layer "Edge.Cuts") (width 0.1) (tstamp 209903a5-276b-4cb6-bb5e-0664575a7179))
+  (gr_line (start 204.362 152.4) (end 102.762 152.4) (layer "Edge.Cuts") (width 0.1) (tstamp 4de996b6-6f99-4b5c-bcd4-370dfd0a5409))
+  (gr_arc (start 204.362 25.4) (mid 213.342256 29.119744) (end 217.062 38.1) (layer "Edge.Cuts") (width 0.1) (tstamp 54bfb058-b6f3-4dfc-bb98-70f93df1be56))
+  (gr_arc (start 217.062 139.7) (mid 213.342256 148.680256) (end 204.362 152.4) (layer "Edge.Cuts") (width 0.1) (tstamp 5f7eb056-93c1-49dc-a6ae-db535db811fd))
+  (gr_line (start 90.062 139.7) (end 90.062 38.1) (layer "Edge.Cuts") (width 0.1) (tstamp 74f1639b-d825-4268-8d71-c85a4764c51c))
+  (gr_arc (start 102.762 152.4) (mid 93.781744 148.680256) (end 90.062 139.7) (layer "Edge.Cuts") (width 0.1) (tstamp 77181b81-3ba5-44d0-b03c-3a9407129d7e))
+  (gr_line (start 217.062 38.1) (end 217.062 139.7) (layer "Edge.Cuts") (width 0.1) (tstamp c1c2ac36-422a-4bb6-b2cb-df3087f0e458))
+  (gr_line (start 102.762 25.4) (end 204.362 25.4) (layer "Edge.Cuts") (width 0.1) (tstamp f32b0d74-eb2f-4b50-960f-5485f88e1618))
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 27412a3b-e41e-490f-bbd5-c0c88db2942f)
-    (pts (xy 150.876 105.156) (xy 187.452 105.156))
+    (pts (xy 140.038 97.028) (xy 176.614 97.028))
     (height 7.62)
-    (gr_text "36,5760 mm" (at 169.164 111.626) (layer "Dwgs.User") (tstamp 27412a3b-e41e-490f-bbd5-c0c88db2942f)
+    (gr_text "36,5760 mm" (at 158.326 103.498) (layer "Dwgs.User") (tstamp 27412a3b-e41e-490f-bbd5-c0c88db2942f)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 72fa3151-fc53-4b2a-b559-327a92fa6ee0)
-    (pts (xy 150.876 105.156) (xy 181.102 105.156))
+    (pts (xy 140.038 97.028) (xy 170.264 97.028))
     (height 4.318)
-    (gr_text "30,2260 mm" (at 165.989 108.324) (layer "Dwgs.User") (tstamp 72fa3151-fc53-4b2a-b559-327a92fa6ee0)
+    (gr_text "30,2260 mm" (at 155.151 100.196) (layer "Dwgs.User") (tstamp 72fa3151-fc53-4b2a-b559-327a92fa6ee0)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
