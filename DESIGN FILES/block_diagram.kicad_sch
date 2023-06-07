@@ -5,8 +5,8 @@
   (paper "A3")
 
   (title_block
-    (title "MIMXRT1064 MCU Module")
-    (date "2023-05-23")
+    (title "MIMXRT1064 Audio Board")
+    (date "2023-06-06")
     (rev "0")
     (company "Joël Ucedo")
   )
