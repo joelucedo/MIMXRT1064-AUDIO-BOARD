@@ -2668,7 +2668,7 @@
     (uuid 6c68debe-d72e-4e04-83a0-5a9cff361d2a)
     (property "Reference" "R306" (id 0) (at 236.22 162.56 90))
     (property "Value" "100R" (id 1) (at 236.22 167.64 90))
-    (property "Footprint" "MY RESISTOR LIBRARY:0805W8F1000T5E" (id 2) (at 236.22 166.878 90)
+    (property "Footprint" "MY RESISTOR LIBRARY:0603WAF1000T5E" (id 2) (at 236.22 166.878 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 236.22 165.1 0)
