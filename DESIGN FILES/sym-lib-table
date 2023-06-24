@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "MIMXRT1064 MCU Module")(type "KiCad")(uri "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/Symbols/MIMXRT1064 MCU Module.kicad_sym")(options "")(descr ""))
+  (lib (name "MIMXRT1064 MCU Module")(type "KiCad")(uri "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/Symbols/MIMXRT1064 MCU Module.kicad_sym")(options "")(descr "")(disabled))
   (lib (name "soundsom")(type "KiCad")(uri "C:/Users/32470/Desktop/SOUNDSOdM/SOUNDSOM LIBRARIES/Symbols/soundsom.kicad_sym")(options "")(descr ""))
 )

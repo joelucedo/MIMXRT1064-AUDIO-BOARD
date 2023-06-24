@@ -332,7 +332,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -363,6 +363,48 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "GND",
+        "nets": [
+          "GND"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(0, 0, 255)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power rails",
+        "nets": [
+          "+1V8",
+          "+3V3",
+          "+5V"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
@@ -449,20 +491,8 @@
       "MEMORY "
     ],
     [
-      "d10fccf0-29f0-4392-b875-5cee27b3fc14",
-      "AUDIO"
-    ],
-    [
-      "8b3b6589-2247-48dd-86fa-85fd6140559c",
-      "MIDI"
-    ],
-    [
-      "21ef7e85-26c6-40fd-937c-155ecfe24cbf",
-      "POTS & ENCODER & LEDS"
-    ],
-    [
-      "0db1eb47-189c-4047-9032-900fc2096b06",
-      "USB - JTAG"
+      "712f081d-ee0e-4435-b2b3-ed15cf3101b4",
+      "PINOUT"
     ]
   ],
   "text_variables": {}
