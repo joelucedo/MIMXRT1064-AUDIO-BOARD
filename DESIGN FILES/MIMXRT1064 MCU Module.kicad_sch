@@ -181,6 +181,9 @@
     (path "/712f081d-ee0e-4435-b2b3-ed15cf3101b4/6544ee86-f322-4e80-867a-6e60b3ffda3f"
       (reference "#FLG0701") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/712f081d-ee0e-4435-b2b3-ed15cf3101b4/ea297002-f2bd-46a1-9f1d-5c809124de95"
+      (reference "#PWR0101") (unit 1) (value "VBUS") (footprint "")
+    )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/9c55693b-6c13-48bd-8a8d-2d50b5e17150"
       (reference "#PWR0401") (unit 1) (value "+3V3") (footprint "")
     )
@@ -309,9 +312,6 @@
     )
     (path "/712f081d-ee0e-4435-b2b3-ed15cf3101b4/9ccbc68b-02a4-4bc3-b2a4-a65dfd4a5c30"
       (reference "#PWR0701") (unit 1) (value "+1V8") (footprint "")
-    )
-    (path "/712f081d-ee0e-4435-b2b3-ed15cf3101b4/2b3214cb-009d-459c-bdc9-f0e603646c0f"
-      (reference "#PWR0702") (unit 1) (value "+5V") (footprint "")
     )
     (path "/712f081d-ee0e-4435-b2b3-ed15cf3101b4/958e7d25-4e2c-4f2b-a16c-7853f836752b"
       (reference "#PWR0703") (unit 1) (value "+3V3") (footprint "")
