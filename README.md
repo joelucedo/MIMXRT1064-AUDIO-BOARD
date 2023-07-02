@@ -1,6 +1,8 @@
-# MIMXRT1064 AUDIO BOARD
+# MIMXRT1064 MCU BOARD
+<img width="599" alt="MIMXRT1064 MCU Module" src="https://github.com/joelucedo/MIMXRT1064-MCU-BOARD/assets/132199473/897262bc-626e-40c8-9bd5-c74eecada599">
+
 ## WHAT ?
-M7 MCU + SDRAM + FLASH + SD + AUDIO CODEC + LINE IN/OUT + HEADPHONE + MIDI IN/OUT/THRU + IO EXTENSION HEADER + USB-C + JTAG
+M7 MCU + SDRAM + FLASH + SD
 </br>
 ## STATUS
 Work in progress.
@@ -23,7 +25,3 @@ Work in progress.
 #### SD Memory Card Socket
 * ***Capacity*** : Up to 2TB SDHX card
 * ***Data transfer rate*** : Up to 104 MB/s (UHS-I SDR104)
-#### Audio & MIDI
-* ***Codec*** : WM8978CGEFL/RV
-* ***Audio*** : Line in & out
-* ***MIDI*** : MIDI in & out & thru
