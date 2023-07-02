@@ -394,8 +394,14 @@
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/e7d672c6-38cd-4eb2-9f5d-ebd3087789e7"
       (reference "C424") (unit 1) (value "4.7u") (footprint "MY CAPACITOR LIBRARY:0402_CL05A475MP5NRNC")
     )
+    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/6ca521cc-2c82-4dd3-9c1c-2d7a3dacf6ba"
+      (reference "C425") (unit 1) (value "220n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B224KO5NNNC")
+    )
+    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/818cbec6-4c27-4040-8a7f-13cb76271197"
+      (reference "C426") (unit 1) (value "220n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B224KO5NNNC")
+    )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/6c97b40c-3d84-4894-87a7-dd8fc3c0a41d"
-      (reference "C425") (unit 1) (value "22u") (footprint "MY CAPACITOR LIBRARY:0603_CL10A226MQ8NRNC")
+      (reference "C427") (unit 1) (value "22u") (footprint "MY CAPACITOR LIBRARY:0603_CL10A226MQ8NRNC")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/5e01e8e9-dbba-48b4-ae77-2576ac32ff29"
       (reference "C501") (unit 1) (value "4.7u") (footprint "MY CAPACITOR LIBRARY:0402_CL05A475MP5NRNC")
@@ -424,11 +430,11 @@
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/a24983db-ae03-429e-bbe0-b4ea6da9ac14"
       (reference "C509") (unit 1) (value "100n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B104KB54PNC")
     )
-    (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/71683d56-0675-46ec-9417-a4fe5c078e94"
-      (reference "C510") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:0402_CL05A105KA5NQNC")
-    )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/326dfdd8-b10a-4bd0-a9b7-fae57ee82229"
-      (reference "C511") (unit 1) (value "100n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B104KB54PNC")
+      (reference "C510") (unit 1) (value "100n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B104KB54PNC")
+    )
+    (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/71683d56-0675-46ec-9417-a4fe5c078e94"
+      (reference "C511") (unit 1) (value "1u") (footprint "MY CAPACITOR LIBRARY:0402_CL05A105KA5NQNC")
     )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/403e2b59-a582-42ef-ad8b-c9f8efa78974"
       (reference "C512") (unit 1) (value "100n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B104KB54PNC")
@@ -481,9 +487,6 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/b3dcfa8b-dc83-4592-96c6-8b5a38b65bf2"
       (reference "C614") (unit 1) (value "100n") (footprint "MY CAPACITOR LIBRARY:0402_CL05B104KB54PNC")
     )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/b191563f-3bca-4c0b-8638-fed3c6b4a8f5"
-      (reference "FB401") (unit 1) (value "120R") (footprint "MY FERRITE BEAD LIBRARY:0603_BLM18AG121SN1D")
-    )
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/b0b28c4a-8b0f-4fe2-b2f0-6d2292cc4663"
       (reference "FB601") (unit 1) (value "120R") (footprint "MY FERRITE BEAD LIBRARY:0603_BLM18AG121SN1D")
     )
@@ -493,8 +496,8 @@
     (path "/a2f401b1-e3ca-4fba-8477-437af9831272/af8fa442-c713-4fcb-b28a-540042c1a6d3"
       (reference "J601") (unit 1) (value "TF-15x15") (footprint "MY CONNECTOR LIBRARY:TF-15x15_smd")
     )
-    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/ac62e37a-efdb-4f75-a696-d8edf8f7edbf"
-      (reference "L401") (unit 1) (value "4.7u") (footprint "MY INDUCTOR LIBRARY:LQM21PN4R7MGRD")
+    (path "/829b3f95-6b61-404e-b99c-998f91300f3b/9bd450d5-5a23-440b-8390-cf7d6002ce46"
+      (reference "L401") (unit 1) (value "VLS4012ET-4R7M") (footprint "MY INDUCTOR LIBRARY:VLS4012ET-4R7M")
     )
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/88e1dfaa-0fa5-49e5-b505-342c2fa252d0"
       (reference "R401") (unit 1) (value "2.2M") (footprint "MY RESISTOR LIBRARY:0402WGJ0225TCE")
