@@ -771,7 +771,7 @@
           "SD_DAT2",
           "SD_DAT3"
         ],
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(0, 255, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -782,12 +782,7 @@
     "meta": {
       "version": 2
     },
-    "net_colors": {
-      "+1V8": "rgb(0, 255, 255)",
-      "+3V3": "rgb(0, 255, 255)",
-      "/MCU GPIO & BUS/SDRAM_CLK_RES": "rgb(0, 255, 255)",
-      "VBUS": "rgb(0, 255, 255)"
-    }
+    "net_colors": null
   },
   "pcbnew": {
     "last_paths": {
