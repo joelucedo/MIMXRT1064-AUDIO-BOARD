@@ -1,5 +1,5 @@
 # MIMXRT1064 MCU BOARD
-<img width="599" alt="MIMXRT1064 MCU Module" src="https://github.com/joelucedo/MIMXRT1064-MCU-BOARD/assets/132199473/897262bc-626e-40c8-9bd5-c74eecada599">
+![MIMXRT1064 MCU Module](https://github.com/joelucedo/MIMXRT1064-MCU-BOARD/assets/132199473/cacbd753-c9e6-4b77-986e-d4d5b37767dd)
 
 ## WHAT ?
 M7 MCU + SDRAM + FLASH + SD
