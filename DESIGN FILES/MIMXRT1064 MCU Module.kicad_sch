@@ -517,12 +517,6 @@
     (path "/829b3f95-6b61-404e-b99c-998f91300f3b/54877d2d-3a06-4396-a06b-a7365a337ec2"
       (reference "R403") (unit 1) (value "30k") (footprint "MY RESISTOR LIBRARY:AF0402FR-0730KL")
     )
-    (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/3a55b9b6-4d07-4bdb-8d83-13cd4de10e15"
-      (reference "R501") (unit 1) (value "0R") (footprint "MY RESISTOR LIBRARY:0603WAF0000T5E")
-    )
-    (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/2b9de085-1852-4b24-9e28-90fc2fe23d0b"
-      (reference "R503") (unit 1) (value "0R") (footprint "MY RESISTOR LIBRARY:0603WAF0000T5E")
-    )
     (path "/574a2f6c-1db5-4366-bd73-1f4d156f4a53/bb710ef5-fb98-4362-b085-3c1d6a42a640"
       (reference "R504") (unit 1) (value "0R") (footprint "MY RESISTOR LIBRARY:0603WAF0000T5E")
     )
