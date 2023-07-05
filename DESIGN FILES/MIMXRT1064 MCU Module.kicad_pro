@@ -442,7 +442,7 @@
           "FLEXSPI_D3",
           "FLEXSPI_SS"
         ],
-        "pcb_color": "rgb(255, 0, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -772,7 +772,7 @@
           "SD_DAT2",
           "SD_DAT3"
         ],
-        "pcb_color": "rgb(0, 255, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
